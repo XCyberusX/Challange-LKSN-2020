@@ -12,10 +12,4 @@
 Chalange ini terdiri dari, 
 - **[CTF](https://github.com/XCyberusX/challenge-LKSN-2020/tree/main/CTF)**
 - **[ATTACK - DEFENSE](https://github.com/XCyberusX/challenge-LKSN-2020/tree/main/ATTACK-DEFENSE)**
-- **[Hardening](https://github.com/xBabySharkx)**
-
-### Parther
-
-- **[F00DS](https://github.com/XcyberusX)**
-- **[NACH0](https://devair.xyz)**
-- **[Yaelahwar](https://github.com/xBabySharkx)**
+- **[Hardening](https://google.com/?query=CommingSoon)**
