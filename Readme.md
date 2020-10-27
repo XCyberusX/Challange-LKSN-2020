@@ -1,10 +1,10 @@
 <p align="center"><a href="https://cyberus.my.id" target="_blank"><img src="https://raw.githubusercontent.com/XCyberusX/f00ds.github.io/main/b4c18535e1e3d94f7a9387d367977cd7.png" width="400"></a></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="#"><img src="https://img.shields.io/github/stars/XCyberusX/challenge-LKSN-2020" alt="Build Status"></a>
+<a href="#"><img src="https://img.shields.io/github/issues/XCyberusX/challenge-LKSN-2020?style=flat-square" alt="Total Downloads"></a>
+<a href="#"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="#"><img src="https://img.shields.io/twitter/url?style=social" alt="License"></a>
 </p>
 
 ## Challange LKSN 28
