@@ -3,7 +3,7 @@
 <p align="center">
 <a href="#"><img src="https://img.shields.io/github/stars/XCyberusX/challenge-LKSN-2020" alt="Build Status"></a>
 <a href="#"><img src="https://img.shields.io/github/issues/XCyberusX/challenge-LKSN-2020?style=flat-square" alt="Total Downloads"></a>
-<a href="#"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="#"><img src="https://img.shields.io/badge/Me-100-ff69b4" alt="Latest Stable Version"></a>
 <a href="#"><img src="https://img.shields.io/badge/smile-100-ff69b4" alt="License"></a>
 </p>
 
