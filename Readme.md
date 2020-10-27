@@ -12,9 +12,9 @@
 Chalange ini terdiri dari, 
 - **[CTF](https://github.com/XCyberusX/challenge-LKSN-2020/tree/main/CTF)**
 - **[ATTACK - DEFENSE](https://github.com/XCyberusX/challenge-LKSN-2020/tree/main/ATTACK-DEFENSE)**
-- **[Hardening](https://i.ytimg.com/vi/dIh4xxFQrTU/maxresdefault.jpg)**
+- **[Hardening](https://github.com/XCyberusX/challenge-LKSN-2020/tree/main/HARDENING%20WINDOWS)**
 
 ## Write up
 
 If you Want?? 
-**[Hardening](https://i.ytimg.com/vi/dIh4xxFQrTU/maxresdefault.jpg)**
+**[Writeup](https://github.com/XCyberusX/Write-Up-LKSN-2020)**
