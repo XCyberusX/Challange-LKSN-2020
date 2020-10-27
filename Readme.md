@@ -1,0 +1,1 @@
+![Me](https://img.shields.io/github/issues/XCyberusX/challenge-LKSN-2020)
